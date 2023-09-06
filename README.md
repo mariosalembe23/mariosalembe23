@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Mário Salembe 👋
 
-<!--
-**mariosalembe23/mariosalembe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=mariosalembe23&show_icons=true&theme=dark)
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Morphosis Corporation
+- 🌱 I’m currently learning Vue.js and Node.js
+- 💬 Ask me about: <strong>HTML, CSS,VANNILA, VUE.JS, NODE.JS, MONGODB</strong>
+- ⚡ Fun fact: SomeOne is Watching you
+
+<p>
+  I am Working with Web Development!!!
+</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
+</div>
