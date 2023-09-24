@@ -1,9 +1,5 @@
 ### Hi, I'm Mário Salembe 👋
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=mariosalembe23&show_icons=true&theme=dark)
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Morphosis Corporation
