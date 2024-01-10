@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - Me Pergunte Sobre: Javascript, Python, C, React and Vue.js!
 - I am a C language teacher. :)
 <p>
- Mys Soft Kills
+ My Soft Kills
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
