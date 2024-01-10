@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm Mário, Full Stack Web Developer but now focused on Front-end Development and working on the Morphosis Team.
-- I am a person who likes to gain a lot of knowledge about computing, I am obsessed!
-- Me Pergunte Sobre: Javascript, Python, C, React e Vue.js!
+- I am a person who likes to gain a lot of knowledge about computing, I am obsessed to Technology!
+- Me Pergunte Sobre: Javascript, Python, C, React and Vue.js!
 - I am a C language teacher. :)
 <p>
  Mys Soft Kills
