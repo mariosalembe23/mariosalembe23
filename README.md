@@ -2,20 +2,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Morphosis Corporation
-- 🌱 I’m currently learning Vue.js and Node.js
-- 💬 Ask me about: <strong>HTML, CSS,VANNILA, VUE.JS, NODE.JS, MONGODB</strong>
-- ⚡ Fun fact: SomeOne is Watching you
-
+- 🔭 I'm Mário, Full Stack Web Developer but now focused on Front-end Development and working on the Morphosis Team.
+- I am a person who likes to gain a lot of knowledge about computing, I am obsessed!
+- Me Pergunte Sobre: Javascript, Python, C, React e Vue.js!
+- I am a C language teacher. :)
 <p>
-  I am Working with Web Development!!!
+ Mys Soft Kills
 </p>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
-</div>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,vue,tailwind,mysql,mongodb,typescript,python,c" />
+  </a>
+</p>
