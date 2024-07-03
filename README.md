@@ -32,7 +32,7 @@ I am a Full Stack Developer but now I am focused on the Front-end area. I am con
 </p>
 
 ```markdown
-https://42luanda-clone.vercel.app/
+https://mariosalembe23.github.io/42Luanda-UI/UI/dark.html
 ```
 <p>
     2 - Um clone a minha maneira do Layout do Supermercado<a href="https://www.shoprite.co.ao/"> Shoprite</a>
